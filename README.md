@@ -4,5 +4,5 @@ Information Flow System
 
 ***
 
-[*What next..*](https://github.com/hyipinfo/hyipinfo.github.io/wiki)
+[What Next..](https://github.com/hyipinfo/hyipinfo.github.io/wiki)
 
