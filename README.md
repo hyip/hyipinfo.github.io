@@ -5,7 +5,7 @@
 Information Flow System
 
 This project section is running on Amazon Web Service (AWS) using AWS CodeDeploy. Please refer to the tutorial:
-http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.html
+http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.html#github-integ-tutorial-deploy
 ***
 |[:arrow_backward:](https://github.com/hyip/info) [Prev](https://github.com/hyip/info)|[Next](https://github.com/hyipinfo/hyipinfo.github.io/wiki/Home) [:arrow_forward:](https://github.com/hyipinfo/hyipinfo.github.io/wiki/Home)|
 |:----|----:|
