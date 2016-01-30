@@ -7,6 +7,8 @@ Information Flow System
 This project section is running on Amazon Web Service (AWS) using AWS CodeDeploy:  
 https://console.aws.amazon.com/codedeploy/  
 
+Let’s trigger a deployment from your GitHub repository using the AWS Management Console. You can configure CodeDeploy to pull the application bundle directly [from the GitHub](https://blogs.aws.amazon.com/application-management/post/Tx33XKAKURCCW83/Automatically-Deploy-from-GitHub-Using-AWS-CodeDeploy) repository, rather than from Amazon S3. 
+
 The following diagram illustrates the flow of a typical AWS CodeDeploy deployment:  
 [![AWS CodeDeploy](http://docs.aws.amazon.com/codedeploy/latest/userguide/images/sds_architecture.png)](http://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html)
 
