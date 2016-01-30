@@ -41,6 +41,7 @@ Important Checklist:
 Other Resources:
 * [Using AWS CodeDeploy to Deploy an Application from GitHub](http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.html)
 * [Automatically Deploy from GitHub Using AWS CodeDeploy](https://blogs.aws.amazon.com/application-management/post/Tx33XKAKURCCW83/Automatically-Deploy-from-GitHub-Using-AWS-CodeDeploy)
+* [AWS CodeDeploy forum](https://forums.aws.amazon.com//forum.jspa?forumID=179)  
 
 
 ***
