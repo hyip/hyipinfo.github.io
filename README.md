@@ -7,6 +7,7 @@ Information Flow System
 This project section is running on Amazon Web Service (AWS) using AWS CodeDeploy:  
 https://console.aws.amazon.com/codedeploy/  
 
+The following diagram illustrates the flow of a typical AWS CodeDeploy deployment:  
 [![AWS CodeDeploy](http://docs.aws.amazon.com/codedeploy/latest/userguide/images/sds_architecture.png)](http://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html)
 
 Create Command:
