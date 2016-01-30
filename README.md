@@ -9,7 +9,7 @@ http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.htm
 
 Important Checklist:
 * [Install, Uninstall, or Reinstall the AWS CodeDeploy Agent](http://docs.aws.amazon.com/codedeploy/latest/userguide/how-to-run-agent.html#how-to-run-agent-install-linux)
-* To Follow
+* [General Troubleshooting Checklist](http://docs.aws.amazon.com/codedeploy/latest/userguide/troubleshooting.html#troubleshooting-checklist)
 
 ***
 |[:arrow_backward:](https://github.com/hyip/info) [Prev](https://github.com/hyip/info)|[Next](https://github.com/hyipinfo/hyipinfo.github.io/wiki/Home) [:arrow_forward:](https://github.com/hyipinfo/hyipinfo.github.io/wiki/Home)|
