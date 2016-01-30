@@ -13,6 +13,18 @@ Important Checklist:
 * [Deploy a Revision](http://docs.aws.amazon.com/codedeploy/latest/userguide/how-to-deploy-revision.html) and [GitHub Authentication](http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ.html#github-integ-behaviors-auth)
 * [General Troubleshooting Checklist](http://docs.aws.amazon.com/codedeploy/latest/userguide/troubleshooting.html#troubleshooting-checklist)
 
+
+Push Command:
+'''
+aws deploy push \
+  --application-name WordPress_App \
+  --description "This is a revision for the application WordPress_App" \
+  --ignore-hidden-files \
+  --s3-location s3://codedeploydemobucket/WordPressApp.zip \
+  --source .
+'''
+
+
 ***
 |[:arrow_backward:](https://github.com/hyip/info) [Prev](https://github.com/hyip/info)|[Next](https://github.com/hyipinfo/hyipinfo.github.io/wiki/Home) [:arrow_forward:](https://github.com/hyipinfo/hyipinfo.github.io/wiki/Home)|
 |:----|----:|
