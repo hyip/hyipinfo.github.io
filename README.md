@@ -7,9 +7,8 @@ Information Flow System
 This project section is running on Amazon Web Service (AWS) using AWS CodeDeploy:  
 https://console.aws.amazon.com/codedeploy/  
 
-Let’s trigger a deployment from your GitHub repository using the AWS Management Console. You can also configure CodeDeploy to pull the application bundle directly [from the GitHub](https://blogs.aws.amazon.com/application-management/post/Tx33XKAKURCCW83/Automatically-Deploy-from-GitHub-Using-AWS-CodeDeploy) repository, rather than from Amazon S3. 
+The following diagram illustrates the flow of a typical AWS CodeDeploy deployment:   
 
-The following diagram illustrates the flow of a typical AWS CodeDeploy deployment:  
 [![AWS CodeDeploy](http://docs.aws.amazon.com/codedeploy/latest/userguide/images/sds_architecture.png)](http://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html)
 
 Create Command:
@@ -40,7 +39,8 @@ Important Checklist:
 * [Create a Service Role](http://docs.aws.amazon.com/codedeploy/latest/userguide/how-to-create-service-role.html) and [Setting Up](http://docs.aws.amazon.com/codedeploy/latest/userguide/how-to-create-service-role.html)
 * [General Troubleshooting](http://docs.aws.amazon.com/codedeploy/latest/userguide/troubleshooting.html#troubleshooting-checklist)
 
-Other Resources:
+
+Let’s trigger a deployment from your GitHub repository using the AWS Management Console. You can also configure CodeDeploy to pull the application bundle directly [from the GitHub](https://blogs.aws.amazon.com/application-management/post/Tx33XKAKURCCW83/Automatically-Deploy-from-GitHub-Using-AWS-CodeDeploy) repository, rather than from Amazon S3, here is the resources:
 * [Using AWS CodeDeploy to Deploy an Application from GitHub](http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.html)
 * [Automatically Deploy from GitHub Using AWS CodeDeploy](https://blogs.aws.amazon.com/application-management/post/Tx33XKAKURCCW83/Automatically-Deploy-from-GitHub-Using-AWS-CodeDeploy)
 * [AWS CodeDeploy forum](https://forums.aws.amazon.com//forum.jspa?forumID=179)  
