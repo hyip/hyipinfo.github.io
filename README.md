@@ -9,6 +9,7 @@ http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.htm
 
 Important Checklist:
 * [Install, Uninstall, or Reinstall the AWS CodeDeploy Agent](http://docs.aws.amazon.com/codedeploy/latest/userguide/how-to-run-agent.html#how-to-run-agent-install-linux)
+*  [Add an AppSpec File](http://docs.aws.amazon.com/codedeploy/latest/userguide/how-to-add-appspec-file.html) and [AppSpec File Reference](http://docs.aws.amazon.com/codedeploy/latest/userguide/app-spec-ref.html)
 * [General Troubleshooting Checklist](http://docs.aws.amazon.com/codedeploy/latest/userguide/troubleshooting.html#troubleshooting-checklist)
 
 ***
