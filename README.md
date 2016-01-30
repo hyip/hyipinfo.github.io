@@ -15,14 +15,14 @@ Important Checklist:
 
 
 Push Command:
-'''
+```
 aws deploy push \
   --application-name WordPress_App \
   --description "This is a revision for the application WordPress_App" \
   --ignore-hidden-files \
   --s3-location s3://codedeploydemobucket/WordPressApp.zip \
   --source .
-'''
+```
 
 
 ***
