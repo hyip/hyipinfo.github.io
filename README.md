@@ -7,13 +7,6 @@ Information Flow System
 This project section is running on Amazon Web Service (AWS) using AWS CodeDeploy. Please refer to the tutorial:
 http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.html#github-integ-tutorial-deploy
 
-Important Checklist:
-* [Install, Uninstall, or Reinstall the AWS CodeDeploy Agent](http://docs.aws.amazon.com/codedeploy/latest/userguide/how-to-run-agent.html#how-to-run-agent-install-linux)
-*  [Add an AppSpec File](http://docs.aws.amazon.com/codedeploy/latest/userguide/how-to-add-appspec-file.html) and [AppSpec File Reference](http://docs.aws.amazon.com/codedeploy/latest/userguide/app-spec-ref.html)
-* [Deploy a Revision](http://docs.aws.amazon.com/codedeploy/latest/userguide/how-to-deploy-revision.html) and [GitHub Authentication](http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ.html#github-integ-behaviors-auth)
-* [Create a Service Role](http://docs.aws.amazon.com/codedeploy/latest/userguide/how-to-create-service-role.html) and [Setting Up](http://docs.aws.amazon.com/codedeploy/latest/userguide/how-to-create-service-role.html)
-* [General Troubleshooting](http://docs.aws.amazon.com/codedeploy/latest/userguide/troubleshooting.html#troubleshooting-checklist)
-
 Create Command:
 ```
 aws deploy create-deployment \
@@ -33,6 +26,18 @@ aws deploy push \
   --s3-location s3://codedeploydemobucket/WordPressApp.zip \
   --source .
 ```
+
+
+Important Checklist:
+* [Install, Uninstall, or Reinstall the AWS CodeDeploy Agent](http://docs.aws.amazon.com/codedeploy/latest/userguide/how-to-run-agent.html#how-to-run-agent-install-linux)
+*  [Add an AppSpec File](http://docs.aws.amazon.com/codedeploy/latest/userguide/how-to-add-appspec-file.html) and [AppSpec File Reference](http://docs.aws.amazon.com/codedeploy/latest/userguide/app-spec-ref.html)
+* [Deploy a Revision](http://docs.aws.amazon.com/codedeploy/latest/userguide/how-to-deploy-revision.html) and [GitHub Authentication](http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ.html#github-integ-behaviors-auth)
+* [Create a Service Role](http://docs.aws.amazon.com/codedeploy/latest/userguide/how-to-create-service-role.html) and [Setting Up](http://docs.aws.amazon.com/codedeploy/latest/userguide/how-to-create-service-role.html)
+* [General Troubleshooting](http://docs.aws.amazon.com/codedeploy/latest/userguide/troubleshooting.html#troubleshooting-checklist)
+
+Other Resources:
+* [Using AWS CodeDeploy to Deploy an Application from GitHub](http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.html)
+* [Automatically Deploy from GitHub Using AWS CodeDeploy](https://blogs.aws.amazon.com/application-management/post/Tx33XKAKURCCW83/Automatically-Deploy-from-GitHub-Using-AWS-CodeDeploy)
 
 
 ***
