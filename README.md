@@ -14,6 +14,15 @@ Important Checklist:
 * [Create a Service Role](http://docs.aws.amazon.com/codedeploy/latest/userguide/how-to-create-service-role.html) and [Setting Up](http://docs.aws.amazon.com/codedeploy/latest/userguide/how-to-create-service-role.html)
 * [General Troubleshooting](http://docs.aws.amazon.com/codedeploy/latest/userguide/troubleshooting.html#troubleshooting-checklist)
 
+Create Command:
+```
+aws deploy create-deployment \
+  --application-name CodeDeployGitHubDemo-App \
+  --deployment-config-name CodeDeployDefault.OneAtATime \
+  --deployment-group-name CodeDeployGitHubDemo-DepGrp \
+  --description "My GitHub deployment demo" \
+  --github-location repository=repository,commitId=commitId
+```
 
 Push Command:
 ```
