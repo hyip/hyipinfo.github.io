@@ -45,7 +45,7 @@ Let’s trigger a deployment from your GitHub repository using the AWS Managemen
 * [Automatically Deploy from GitHub Using AWS CodeDeploy](https://blogs.aws.amazon.com/application-management/post/Tx33XKAKURCCW83/Automatically-Deploy-from-GitHub-Using-AWS-CodeDeploy)
 * [Jenkins and AWS Code Deploy](http://www.cuelogic.com/blog/how-to-use-jenkins-and-aws-code-deploy-as-a-ci-cd-tool/)
 * [AWS CodeDeploy forum](https://forums.aws.amazon.com//forum.jspa?forumID=179)  
-* [appspec.yml problems](http://stackoverflow.com/questions/27923991/amazon-web-service-codedeploy-appspec-yml-problems)
+* [Solution appspec.yml](http://stackoverflow.com/questions/27923991/amazon-web-service-codedeploy-appspec-yml-problems)
 
 
 ***
