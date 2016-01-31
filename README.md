@@ -43,7 +43,7 @@ Important Checklist:
 Let’s trigger a deployment from your GitHub repository using the AWS Management Console. You can also configure CodeDeploy to pull the application bundle directly [from the GitHub](https://blogs.aws.amazon.com/application-management/post/Tx33XKAKURCCW83/Automatically-Deploy-from-GitHub-Using-AWS-CodeDeploy) repository, rather than from Amazon S3, here is the resources:
 * [Using AWS CodeDeploy to Deploy an Application from GitHub](http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.html)
 * [Automatically Deploy from GitHub Using AWS CodeDeploy](https://blogs.aws.amazon.com/application-management/post/Tx33XKAKURCCW83/Automatically-Deploy-from-GitHub-Using-AWS-CodeDeploy)
-* [Jenkins and AWS Code Deploy](http://www.cuelogic.com/blog/how-to-use-jenkins-and-aws-code-deploy-as-a-ci-cd-tool/)
+* [Jenkins and AWS Code Deploy](http://www.cuelogic.com/blog/how-to-use-jenkins-and-aws-code-deploy-as-a-ci-cd-tool/) and and [Credentials](http://docs.aws.amazon.com/AWSSdkDocsJava/latest/DeveloperGuide/credentials.html)
 * [AWS CodeDeploy forum](https://forums.aws.amazon.com//forum.jspa?forumID=179)  
 * [Solution appspec.yml](http://stackoverflow.com/questions/27923991/amazon-web-service-codedeploy-appspec-yml-problems)
 
