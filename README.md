@@ -45,6 +45,7 @@ Let’s trigger a deployment from your GitHub repository using the AWS Managemen
 * [Automatically Deploy from GitHub Using AWS CodeDeploy](https://blogs.aws.amazon.com/application-management/post/Tx33XKAKURCCW83/Automatically-Deploy-from-GitHub-Using-AWS-CodeDeploy)
 * [Automated deployments with Wercker](http://gohugo.io/tutorials/automated-deployments/)
 * [Jenkins](http://www.cuelogic.com/blog/how-to-use-jenkins-and-aws-code-deploy-as-a-ci-cd-tool/) and [Setup Credentials](http://docs.aws.amazon.com/AWSSdkDocsJava/latest/DeveloperGuide/credentials.html)
+* [Shipyard](https://shipyard-project.com/docs/deploy/automated/) & [Semaphoreci](https://semaphoreci.com/)
 * [AWS CodeDeploy forum](https://forums.aws.amazon.com//forum.jspa?forumID=179)  
 * [Solution appspec.yml](http://stackoverflow.com/questions/27923991/amazon-web-service-codedeploy-appspec-yml-problems)
 
